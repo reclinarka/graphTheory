@@ -1,0 +1,9 @@
+#GraphFile#
+V := { 
+"test2", 
+"test3", 
+"test1"  }
+
+E := {     { "test1", "test2", "2" }, 
+    { "test3", "test2", "3" } 
+ }

@@ -1,0 +1,29 @@
+#GraphFile#
+V := { 
+"test4", 
+"test2", 
+"test3", 
+"test1", 
+"test5", 
+"test6", 
+"test7", 
+"test8", 
+"test9", 
+"test10", 
+"test11"  }
+
+E := {     { "test1", "test2", "2" }, 
+    { "test3", "test2", "3" }, 
+    { "test2", "test4", "5" }, 
+    { "test5", "test4", "3" }, 
+    { "test5", "test1", "3" }, 
+    { "test7", "test9", "6" }, 
+    { "test9", "test3", "3" }, 
+    { "test8", "test9", "3" }, 
+    { "test6", "test5", "6" }, 
+    { "test10", "test2", "5" }, 
+    { "test10", "test7", "2" }, 
+    { "test1", "test9", "2" }, 
+    { "test11", "test4", "2" }, 
+    { "test11", "test1", "1" } 
+ }

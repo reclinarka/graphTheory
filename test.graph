@@ -1,0 +1,25 @@
+#GraphFile#
+V := { 
+"Frankfurt",
+"Mannheim",
+"Wuerzburg",
+"Stuttgart",
+"Kassel",
+"Karlsruhe",
+"Nuernberg",
+"Erfurt",
+"Augsburg",
+"Muenchen" }
+
+E := {     { "Frankfurt", "Mannheim", "85" },
+    { "Frankfurt", "Wuerzburg", "217" },
+    { "Frankfurt", "Kassel", "173" },
+    { "Mannheim", "Karlsruhe", "80" },
+    { "Wuerzburg", "Erfurt", "186" },
+    { "Wuerzburg", "Nuernberg", "103" },
+    { "Stuttgart", "Nuernberg", "183" },
+    { "Kassel", "Muenchen", "502" },
+    { "Karlsruhe", "Augsburg", "250" },
+    { "Nuernberg", "Muenchen", "167" },
+    { "Augsburg", "Muenchen", "84" }
+ }
